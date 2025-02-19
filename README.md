@@ -3,6 +3,7 @@ This repository is the Pytorch code for our paper "_**Cross-sensor contrastive l
 
 Paper Link: (https://doi.org/10.1016/j.knosys.2025.113075)
 
+![image](https://github.com/haoohu/CCLP/blob/main/Flowchart.jpg)
 
 ## Citation
 
