@@ -1,5 +1,5 @@
 # CCLP
-This repository is the Pytorch code for our paper published in **_Knowledge-Based Systems_**--
+This repository is the Pytorch code for our paper published in **_Knowledge-Based Systems_**-----
 "**Cross-sensor contrastive learning-based pre-training for machinery fault diagnosis under sample-limited conditions**".
 
 Paper Link: (https://doi.org/10.1016/j.knosys.2025.113075)
